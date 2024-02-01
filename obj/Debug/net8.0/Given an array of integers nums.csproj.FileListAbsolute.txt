@@ -1,0 +1,14 @@
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\bin\Debug\net8.0\Given an array of integers nums.exe
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\bin\Debug\net8.0\Given an array of integers nums.deps.json
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\bin\Debug\net8.0\Given an array of integers nums.runtimeconfig.json
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\bin\Debug\net8.0\Given an array of integers nums.dll
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\bin\Debug\net8.0\Given an array of integers nums.pdb
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\Given an array of integers nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\Given an array of integers nums.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\Given an array of integers nums.AssemblyInfo.cs
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\Given an array of integers nums.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\Given an array of integers nums.dll
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\refint\Given an array of integers nums.dll
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\Given an array of integers nums.pdb
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\Given an array of integers nums.genruntimeconfig.cache
+C:\Users\paulo\Desktop\programação\atividades\28-01-2024\Given an array of integers nums\obj\Debug\net8.0\ref\Given an array of integers nums.dll
